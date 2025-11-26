@@ -1,1 +1,3 @@
-## 3rd-year Robotics student specializing in Computer Vision and ML within ROS 2 ecosystem.
+# 3rd year robotics student specializing in CV and ML
+# Cтудентка 3 курса робототехники, специализирующаяся на компьютерном зрении и машинном обучении
+
